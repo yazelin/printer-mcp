@@ -1,6 +1,6 @@
 [project]
 name = "printer-mcp"
-version = "0.2.0"
+version = "0.2.1"
 description = "MCP server for printer control via CUPS"
 readme = "README.md"
 license = "MIT"
