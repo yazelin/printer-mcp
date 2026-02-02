@@ -158,11 +158,13 @@ python server.py
 - `copies` (optional) — Number of copies, defaults to 1
 - `page_size` (optional) — Paper size, defaults to `A4`. Options: `A3`, `A4`, `A5`, `B4`, `B5`, `Letter`, `Legal`, `Tabloid`
 - `orientation` (optional) — Print orientation, defaults to `portrait`. Options: `portrait`, `landscape`
+- `color_mode` (optional) — Color mode, defaults to `gray` (grayscale). Options: `gray`, `color`
 
 **`print_test_page`**
 - `printer` (optional) — Printer name, defaults to system default
 - `page_size` (optional) — Paper size, defaults to `A4`. Options: `A3`, `A4`, `A5`, `B4`, `B5`, `Letter`, `Legal`, `Tabloid`
 - `orientation` (optional) — Print orientation, defaults to `portrait`. Options: `portrait`, `landscape`
+- `color_mode` (optional) — Color mode, defaults to `gray` (grayscale). Options: `gray`, `color`
 
 **`printer_status`**
 - `printer` (optional) — Printer name, leave empty to query all
